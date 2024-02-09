@@ -5,4 +5,11 @@ layout: default
 has_children: true
 ---
 
-Installation
+### Installing CedMod
+
+- EXILED
+- Northwood Plugin API (NWApi)
+
+---
+### Setting up CedMod
+
