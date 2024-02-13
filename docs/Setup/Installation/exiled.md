@@ -13,7 +13,7 @@ Download CedMod, from the [releases](https://github.com/CedModV2/CedMod/releases
 {: .highlight }
 ⚠️ Make sure to check the release title, and download from the __EXILED__ release.
 
-### 2. Install CedMod
+### 2. Installing CedMod
 
 #### Windows
 Install the plugin into the `%appdata%/EXILED/Plugins` directory.
@@ -26,4 +26,4 @@ Install the plugin into the `~/.config/EXILED/Plugins`
 
 ### 3. Setup CedMod plugin
 
-Go to   
+Go to [Connecting your server](https://docs.cedmod.nl/docs/Setup/Connecting%20your%20server) to continue setup. You will be configuring the plugin fter 

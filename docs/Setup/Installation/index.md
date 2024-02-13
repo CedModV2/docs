@@ -7,9 +7,5 @@ has_children: true
 
 ### Installing CedMod
 
-- EXILED
-- Northwood Plugin API (NWApi)
-
----
-### Setting up CedMod
-
+- [EXILED](https://docs.cedmod.nl/docs/Setup/Installation/exiled)
+- [Northwood Plugin API (NWApi)](https://docs.cedmod.nl/docs/Setup/Installation/nwapi)
