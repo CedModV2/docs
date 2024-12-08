@@ -4,4 +4,8 @@ layout: home
 nav_order: 1
 ---
 
-CedMod Docs
+# CedMod Docs
+
+> ⚠️ This documentation is Work In Progress.
+
+- [Setup](/Setup)
